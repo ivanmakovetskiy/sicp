@@ -1,4 +1,4 @@
-inc (+ 3 5)) 
+(inc (+ 3 5)) 
 (inc (inc (+ 2 5))) 
 (inc (inc (inc (+ 1 5)))) 
 (inc (inc (inc (inc (+ 0 5))))) 
